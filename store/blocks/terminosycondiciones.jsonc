@@ -81,7 +81,7 @@
 
     "rich-text#titulo-term-segundo": {
         "props": {
-            "text": "###### SEGUNDO: GENERALIDADES",
+            "text": "###### SEGUNDO: COMUNICACIONES",
             "blockClass": "titulo-sobre"
         }
     },
@@ -107,7 +107,7 @@
 
     "rich-text#titulo-term-cuarto": {
         "props": {
-            "text": "###### CUARTO: REGISTRO",
+            "text": "###### CUARTO: REGISTRO DEL CLIENTE PROFESIONAL Y REVENTA DE PRODUCTOS",
             "blockClass": "titulo-sobre"
         }
     },
