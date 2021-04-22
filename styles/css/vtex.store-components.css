@@ -345,13 +345,81 @@
   font-family: 'PT Sans', sans-serif;
 }
 
+:global(.vtex-orderquote-1-x-containerView)
+:global(.vtex-pageHeader__container)
+:global(.vtex-pageHeader-link__container)
+:global(.vtex-button),
 :global(.vtex-orderquote-1-x-containerCreate)
 :global(.vtex-pageHeader__container)
 :global(.vtex-button){
   color: #F75454;
 }
 
+:global(.vtex-orderquote-1-x-containerView)
+:global(.vtex-pageHeader__container)
+:global(.vtex-pageHeader__title),
+:global(.vtex-orderquote-1-x-containerCreate)
+:global(.vtex-pageHeader__container)
+{
+  align-self: center;
+}
 
+
+:global(.vtex-orderquote-1-x-containerView)
+:global(.vtex-pageHeader__container)
+:global(.vtex-pageHeader__children)
+:global(.vtex-button){
+  color:#F75454;
+}
+:global(.vtex-orderquote-1-x-containerView)
+:global(.vtex-pageHeader__container)
+:global(.vtex-pageHeader__children)
+:global(.vtex-button){
+  color:#F75454;
+  border-radius: 20px;
+  border: 2px solid #F75454;
+}
+:global(.vtex-orderquote-1-x-containerView)
+:global(.vtex-pageHeader__container)
+:global(.vtex-pageHeader__children)
+:global(.vtex-orderquote-1-x-buttonPrint)
+:global(.vtex-button){
+  color:rgb(48, 48, 48);
+  background-color: transparent; 
+  border: 2px solid #F75454;
+}
+:global(.vtex-orderquote-1-x-containerView)
+:global(.vtex-pageHeader__container)
+:global(.vtex-pageHeader__children)
+:global(.vtex-orderquote-1-x-buttonUse)
+:global(.vtex-button){
+  color:white;
+  background-color: #F75454;
+  border-radius: 20px;
+  border: 2px solid #F75454;
+}
+:global(.vtex-orderquote-1-x-containerView)
+:global(.vtex-pageHeader__container)
+:global(.vtex-pageHeader__children)
+:global(.vtex-orderquote-1-x-buttonDelete)
+:global(.vtex-button):hover{
+  background: none;
+}
+:global(.vtex-orderquote-1-x-containerView)
+:global(.vtex-pageHeader__container)
+:global(.vtex-pageHeader__children)
+:global(.vtex-orderquote-1-x-buttonUse)
+:global(.vtex-button__label){
+  font-size: 0px;
+}
+:global(.vtex-orderquote-1-x-containerView)
+:global(.vtex-pageHeader__container)
+:global(.vtex-pageHeader__children)
+:global(.vtex-orderquote-1-x-buttonUse)
+:global(.vtex-button__label)::after{
+  content: 'IR A COMPRAR';
+  font-size: 1rem;
+}
 :global(.vtex-render-runtime-8-x-loadingBarAnimation){
   background: #F75454;
 }

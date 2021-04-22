@@ -8,7 +8,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/hombre",
+            "href": "/electricos?map=genero&page=2&query=/hombre&searchState",
             "noFollow": true,
             "tagTitle": "HOMBRE",
             "text": "HOMBRE"
@@ -110,7 +110,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/hombre",
+            "href": "/electricos?map=genero&page=2&query=/hombre&searchState",
             "noFollow": true,
             "tagTitle": "VER TODO HOMBRE",
             "text": "VER TODO HOMBRE"
