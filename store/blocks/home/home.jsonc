@@ -134,7 +134,8 @@
           "image": "https://sallybeautyb2b.vteximg.com.br/arquivos/Barburys-Logo.jpg",
           "mobileImage": "https://sallybeautyb2b.vteximg.com.br/arquivos/Barburys-Logo.jpg",
           "link": {
-            "url": "/styling?map=brand&query=/barburys&searchState"
+            // "url": "/styling?map=brand&query=/barburys&searchState"
+            "url": "#"
           }
         }
         ,
@@ -270,14 +271,16 @@
           "image": "https://sallybeautyb2b.vteximg.com.br/arquivos/Mystic-Divine-Logo.jpg",
           "mobileImage": "https://sallybeautyb2b.vteximg.com.br/arquivos/Mystic-Divine-Logo.jpg",
           "link": {
-            "url": "/styling?map=brand&query=/mystic-divine&searchState"
+            // "url": "/styling?map=brand&query=/mystic-divine&searchState"
+            "url": "#"
           }
         },
         {
           "image": "https://sallybeauty.vteximg.com.br/arquivos/logo-olaplex.jpg",
           "mobileImage": "https://sallybeauty.vteximg.com.br/arquivos/logo-olaplex.jpg",
           "link": {
-            "url": "/styling?map=brand&query=/olaplex&searchState"
+            // "url": "/styling?map=brand&query=/olaplex&searchState"
+            "url": "#"
           }
         },
         {

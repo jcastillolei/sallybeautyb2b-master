@@ -121,7 +121,7 @@
   },
   "rich-text#registrate-texto": {
     "props": {
-      "text": "- Regístrate para acceder al portal de SallyBeuaty Profesional y acceder a los mejores beneficios.",
+      "text": "- Regístrate para acceder al portal de SallyBeauty Profesional y acceder a los mejores beneficios.",
       "blockClass": "rich-texto-pequeño"
     }
   },
