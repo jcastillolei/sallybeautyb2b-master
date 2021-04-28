@@ -209,7 +209,7 @@
     },
     "rich-text#info-stgo-6": {
         "props": {
-            "text": "Av. Apoquindo 6067. Local 10\nLas Condes / METROPOLITANA\n222460971\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -33.4093636, Lng: -70.5699625",
+            "text": "Av. Apoquindo 6067. Local 10\nLas Condes / METROPOLITANA\n222460971\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 18:30\nCoordenadas: Lat: -33.4093636, Lng: -70.5699625",
             "blockClass": "info-tiendas"
         }
     },
@@ -269,7 +269,7 @@
     },
     "rich-text#info-stgo-11": {
         "props": {
-            "text": "Av. La Dehesa 1445. Local 2017\nLo Barnechea / METROPOLITANA\n222162886\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -33.3575751, Lng: -70.5174551",
+            "text": "Av. La Dehesa 1445. Local 2017\nLo Barnechea / METROPOLITANA\n222162886\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 18:00\nCoordenadas: Lat: -33.3575751, Lng: -70.5174551",
             "blockClass": "info-tiendas"
         }
     },
@@ -413,7 +413,7 @@
     },
     "rich-text#info-stgo-23": {
         "props": {
-            "text": "Irarrázaval 2718\nÑuñoa / METROPOLITANA\n222099658\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -33.4542528, Lng: -70.6048669",
+            "text": "Irarrázaval 2718\nÑuñoa / METROPOLITANA\n222099658\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 18:30\nCoordenadas: Lat: -33.4542528, Lng: -70.6048669",
             "blockClass": "info-tiendas"
         }
     },
@@ -488,7 +488,7 @@
     },
     "rich-text#info-tienda-1": {
         "props": {
-            "text": "Av. Balmaceda 2355, Local 152\nANTOFAGASTA / ANTOFAGASTA\n552533421\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -23.645355, Lng: -70.402651",
+            "text": "Av. Balmaceda 2355, Local 152\nANTOFAGASTA / ANTOFAGASTA\n552533421\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 18:30\nCoordenadas: Lat: -23.645355, Lng: -70.402651",
             "blockClass": "info-tiendas"
         }
     },
@@ -540,7 +540,7 @@
     },
     "rich-text#info-tienda-5": {
         "props": {
-            "text": "Guillermo Ulriksen 3128, Local 6\nLA SERENA / COQUIMBO\n512666708\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -29.9420762, Lng: -71.2428566",
+            "text": "Guillermo Ulriksen 3128, Local 6\nLA SERENA / COQUIMBO\n512666708\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 09:00 a 19:00\nCoordenadas: Lat: -29.9420762, Lng: -71.2428566",
             "blockClass": "info-tiendas"
         }
     },
@@ -553,7 +553,7 @@
     },
     "rich-text#info-tienda-6": {
         "props": {
-            "text": "Av. Alberto Solari 1400, Local L-120 Nivel\nLA SERENA / COQUIMBO\n512471699\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -29.9125759, Lng: -71.2604689",
+            "text": "Av. Alberto Solari 1400, Local L-120 Nivel\nLA SERENA / COQUIMBO\n512471699\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 09:00 a 19:00\nCoordenadas: Lat: -29.9125759, Lng: -71.2604689",
             "blockClass": "info-tiendas"
         }
     },

@@ -47,6 +47,13 @@
       "height": 720,
       "images": [
         {
+          "image": "https://sallybeautyb2b.vteximg.com.br/arquivos/PUSH_whatsapp.jpg",
+          "mobileImage": "https://sallybeautyb2b.vteximg.com.br/arquivos/BC_DHS_whatsapp.jpg",
+          "link": {
+            "url": "/profesionales"
+          }
+        },
+        {
           "image": "https://sallybeautyb2b.vteximg.com.br/arquivos/B-HWS-Profesional-B2b.png",
           "mobileImage": "https://sallybeautyb2b.vteximg.com.br/arquivos/B-HMS-Profesional-B2b.png",
           "link": {
@@ -409,7 +416,8 @@
     "blocks": ["product-summary.shelf"],
     "children": ["slider-layout#demo-products"],
     "props": {
-      "orderBy": "OrderByTopSaleDESC"
+      "orderBy": "OrderByTopSaleDESC",
+      "collection": "141"
     }
   },
   "slider-layout#demo-products": {
@@ -432,7 +440,8 @@
     "blocks": ["product-summary.shelf"],
     "children": ["slider-layout#demo2-products"],
     "props": {
-      "orderBy": "OrderByTopSaleDESC"
+      "orderBy": "OrderByTopSaleDESC",
+      "collection": "144"
     }
   },
   "slider-layout#demo2-products": {
