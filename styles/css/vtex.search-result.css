@@ -246,3 +246,8 @@
 .filter__container--power-cord-length{
   display: none;
 }
+
+.filterItem--selected
+:global(.vtex-checkbox__box-wrapper){
+  background: #F75454;
+}

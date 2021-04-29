@@ -5,6 +5,7 @@
       "flex-layout.row#images-and-items",
       "flex-layout.row#buy-button",
       "flex-layout.row#description",
+      "image#whatsapp",
       "shelf.relatedProducts",
       "product-reviews",
       "product-questions-and-answers"
@@ -12,13 +13,28 @@
   },
   "flex-layout.row#images-and-items": {
     "children": [
-      "product-images",
+      "flex-layout.col#images-prod",
       "flex-layout.col#sku-list"
     ],
     "props": {
       "preventHorizontalStretch": false
     }
-  }, 
+  },
+  "flex-layout.col#images-prod":{
+    "children": ["product-images", "image#whatsapp"],
+    "props": {
+      "blockClass": "images-product-tintes"
+    }
+  },
+  "image#whatsapp":{
+    "props": {
+      "src": "/arquivos/PUSH_whatsapp.jpg",
+      "blockClass": "whatsapp-coloracion",
+      "link":{
+        "url": "https://api.whatsapp.com/send?phone=56933719145&text=Hola"
+      }
+    }
+  },
   "product-images": {
     "props": {
       "maxWidth": 2

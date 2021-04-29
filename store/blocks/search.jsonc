@@ -19,7 +19,7 @@
       "context": {
         "orderByField": "OrderByReleaseDateDESC",
         "hideUnavailableItems": true,
-        "maxItemsPerPage": 10,
+        "maxItemsPerPage": 12,
         "skusFilter": "ALL",
         "simulationBehavior": "skip"
       }
@@ -34,7 +34,8 @@
     "props": {
       "context": {
         "skusFilter": "ALL",
-        "simulationBehavior": "skip"
+        "simulationBehavior": "skip",
+        "maxItemsPerPage": 12
       }
     },
     "parent": {
@@ -48,7 +49,8 @@
       "context": {
         "orderByField": "OrderByReleaseDateDESC",
         "skusFilter": "ALL",
-        "simulationBehavior": "skip"
+        "simulationBehavior": "skip",
+        "maxItemsPerPage": 12
       }
     },
     "parent": {
@@ -62,7 +64,8 @@
       "context": {
         "orderByField": "OrderByReleaseDateDESC",
         "skusFilter": "ALL",
-        "simulationBehavior": "skip"
+        "simulationBehavior": "skip",
+        "maxItemsPerPage": 12
       }
     },
     "parent": {
@@ -141,7 +144,7 @@
   },
   "order-by.v2": {
     "props": {
-      "hiddenOptions": ["OrderByNameASC", "OrderByNameDESC"],
+      "hiddenOptions": ["OrderByTopSaleDESC", "OrderByBestDiscountDESC", "OrderByNameASC", "OrderByNameDESC"],
       "showOrderTitle": true
     }
   },
