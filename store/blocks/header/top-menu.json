@@ -115,12 +115,14 @@
       "orientation": "vertical"
     },
     "children": [
+      "menu-item#letra-a",
       "menu-item#aghair",
       "menu-item#agebeautiful",
       "menu-item#alfaparf",
       "menu-item#aclassic",
       "menu-item#ardell",
       "menu-item#arlos",
+      "menu-item#letra-b",
       "menu-item#babyliss",
       "menu-item#barburys",
       "menu-item#batiste",
@@ -130,6 +132,34 @@
       "menu-item#biotera",
       "menu-item#bodyography"
     ]
+  },
+  "menu-item#letra-a":{
+    "props": {
+      "id": "menu-item-letra-a",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "blockClass": "letra-marcas",
+      "itemProps": {
+        "noFollow": true,
+        "tagTitle": "A",
+        "text": "A"
+      }
+    }
+  },
+  "menu-item#letra-b":{
+    "props": {
+      "id": "menu-item-letra-b",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "blockClass": "letra-marcas",
+      "itemProps": {
+        "noFollow": true,
+        "tagTitle": "B",
+        "text": "B"
+      }
+    }
   },
   "menu-item#aghair": {
     "props": {
@@ -346,20 +376,80 @@
       "orientation": "vertical"
     },
     "children": [
+      "menu-item#letra-c",
       "menu-item#cmango",
       "menu-item#celarnico",
       "menu-item#chamos",
       "menu-item#cygray",
       "menu-item#cricket",
+      "menu-item#letra-d",
       "menu-item#dcnl",
       "menu-item#dermactin",
       "menu-item#difeel",
+      "menu-item#letra-e",
       "menu-item#eurostil",
+      "menu-item#letra-f",
       "menu-item#fsecrets",
       "menu-item#fcouture",
       "menu-item#fpaints",
       "menu-item#foreo"
     ]
+  },
+  "menu-item#letra-c":{
+    "props": {
+      "id": "menu-item-letra-c",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "blockClass": "letra-marcas",
+      "itemProps": {
+        "noFollow": true,
+        "tagTitle": "C",
+        "text": "C"
+      }
+    }
+  },
+  "menu-item#letra-d":{
+    "props": {
+      "id": "menu-item-letra-d",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "blockClass": "letra-marcas",
+      "itemProps": {
+        "noFollow": true,
+        "tagTitle": "D",
+        "text": "D"
+      }
+    }
+  },
+  "menu-item#letra-e":{
+    "props": {
+      "id": "menu-item-letra-e",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "blockClass": "letra-marcas",
+      "itemProps": {
+        "noFollow": true,
+        "tagTitle": "E",
+        "text": "E"
+      }
+    }
+  },
+  "menu-item#letra-f":{
+    "props": {
+      "id": "menu-item-letra-f",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "blockClass": "letra-marcas",
+      "itemProps": {
+        "noFollow": true,
+        "tagTitle": "F",
+        "text": "F"
+      }
+    }
   },
   "menu-item#cmango": {
     "props": {
@@ -561,20 +651,139 @@
       "orientation": "vertical"
     },
     "children": [
+      "menu-item#letra-g",
       "menu-item#gelish",
       "menu-item#gibs",
+      "menu-item#letra-h",
       "menu-item#hchemist",
       "menu-item#henbor",
       "menu-item#htools",
+      "menu-item#letra-i",
       "menu-item#ion",
+      "menu-item#letra-k",
       "menu-item#kocostar",
+      "menu-item#letra-l",
       "menu-item#lakme",
+      "menu-item#letra-m",
       "menu-item#mtaylor",
       "menu-item#mdivine",
+      "menu-item#letra-o",
       "menu-item#ogold",
       "menu-item#olio",
       "menu-item#only"
     ]
+  },
+  "menu-item#letra-g":{
+    "props": {
+      "id": "menu-item-letra-g",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "blockClass": "letra-marcas",
+      "itemProps": {
+        "noFollow": true,
+        "tagTitle": "G",
+        "text": "G"
+      }
+    }
+  },
+  "menu-item#letra-h":{
+    "props": {
+      "id": "menu-item-letra-h",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "blockClass": "letra-marcas",
+      "itemProps": {
+        "noFollow": true,
+        "tagTitle": "H",
+        "text": "H"
+      }
+    }
+  },
+  "menu-item#letra-i":{
+    "props": {
+      "id": "menu-item-letra-i",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "blockClass": "letra-marcas",
+      "itemProps": {
+        "noFollow": true,
+        "tagTitle": "I",
+        "text": "I"
+      }
+    }
+  },
+  "menu-item#letra-j":{
+    "props": {
+      "id": "menu-item-letra-j",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "blockClass": "letra-marcas",
+      "itemProps": {
+        "noFollow": true,
+        "tagTitle": "J",
+        "text": "J"
+      }
+    }
+  },
+  "menu-item#letra-k":{
+    "props": {
+      "id": "menu-item-letra-k",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "blockClass": "letra-marcas",
+      "itemProps": {
+        "noFollow": true,
+        "tagTitle": "K",
+        "text": "K"
+      }
+    }
+  },
+  "menu-item#letra-l":{
+    "props": {
+      "id": "menu-item-letra-l",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "blockClass": "letra-marcas",
+      "itemProps": {
+        "noFollow": true,
+        "tagTitle": "L",
+        "text": "L"
+      }
+    }
+  },
+  "menu-item#letra-m":{
+    "props": {
+      "id": "menu-item-letra-m",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "blockClass": "letra-marcas",
+      "itemProps": {
+        "noFollow": true,
+        "tagTitle": "M",
+        "text": "M"
+      }
+    }
+  },
+  "menu-item#letra-o":{
+    "props": {
+      "id": "menu-item-letra-m",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "blockClass": "letra-marcas",
+      "itemProps": {
+        "noFollow": true,
+        "tagTitle": "O",
+        "text": "O"
+      }
+    }
   },
   "menu-item#gelish": {
     "props": {
@@ -776,21 +985,112 @@
       "orientation": "vertical"
     },
     "children": [
+      "menu-item#letra-p",
       "menu-item#palladio",
       "menu-item#pmitchell",
       "menu-item#phillips",
       "menu-item#proclaim",
+      "menu-item#letra-r",
       "menu-item#rdonna",
       "menu-item#rbrush",
+      "menu-item#letra-s",
       "menu-item#scare",
       "menu-item#senscience",
       "menu-item#swissco",
+      "menu-item#letra-t",
       "menu-item#tbalm",
       "menu-item#tshine",
       "menu-item#tweezerman",
+      "menu-item#letra-w",
       "menu-item#wbrush",
+      "menu-item#letra-x",
       "menu-item#xp200"
     ]
+  },
+  "menu-item#letra-p":{
+    "props": {
+      "id": "menu-item-letra-p",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "blockClass": "letra-marcas",
+      "itemProps": {
+        "noFollow": true,
+        "tagTitle": "P",
+        "text": "P"
+      }
+    }
+  },
+  "menu-item#letra-r":{
+    "props": {
+      "id": "menu-item-letra-r",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "blockClass": "letra-marcas",
+      "itemProps": {
+        "noFollow": true,
+        "tagTitle": "R",
+        "text": "R"
+      }
+    }
+  },
+  
+  "menu-item#letra-s":{
+    "props": {
+      "id": "menu-item-letra-s",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "blockClass": "letra-marcas",
+      "itemProps": {
+        "noFollow": true,
+        "tagTitle": "S",
+        "text": "S"
+      }
+    }
+  },
+  "menu-item#letra-t":{
+    "props": {
+      "id": "menu-item-letra-t",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "blockClass": "letra-marcas",
+      "itemProps": {
+        "noFollow": true,
+        "tagTitle": "T",
+        "text": "T"
+      }
+    }
+  },
+  "menu-item#letra-w":{
+    "props": {
+      "id": "menu-item-letra-w",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "blockClass": "letra-marcas",
+      "itemProps": {
+        "noFollow": true,
+        "tagTitle": "W",
+        "text": "W"
+      }
+    }
+  },
+  "menu-item#letra-x":{
+    "props": {
+      "id": "menu-item-letra-x",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "blockClass": "letra-marcas",
+      "itemProps": {
+        "noFollow": true,
+        "tagTitle": "X",
+        "text": "X"
+      }
+    }
   },
   "menu-item#palladio": {
     "props": {

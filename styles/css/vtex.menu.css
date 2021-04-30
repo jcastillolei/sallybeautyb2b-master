@@ -50,3 +50,20 @@
         padding-bottom: 0px !important;
     }
 }
+
+.styledLinkContent--letra-marcas{
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.styledLinkContent--letra-marcas::after{
+    content: "";
+    position: absolute;
+    background: url(https://sallybeauty.vteximg.com.br/arquivos/brush-sallybeauty_01.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 20px;
+    z-index: -1;
+    margin-top: 15px;
+}
