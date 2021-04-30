@@ -86,12 +86,31 @@
     }
 
     .container
-    :global(.vtex-button):hover{
-        background: inherit;
+    :global(.vtex-button):hover,
+    .container
+    :global(.vtex-button):active,
+    .container
+    :global(.vtex-button):visited,
+    .container
+    :global(.vtex-button):focus{
+        background: transparent;
     }
 
     .accountOptions{
         text-align-last: center;
+    }
+
+    .accountOptions
+    :global(.vtex-button),
+    .accountOptions
+    .button{
+        color: #F75454;
+    }
+    .accountOptions
+    :global(.vtex-button):hover,
+    .accountOptions
+    .button:hover{
+        background-color: transparent;
     }
 }
 
