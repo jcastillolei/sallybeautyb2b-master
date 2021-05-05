@@ -1,11 +1,14 @@
 @media (min-width: 991px){
     :global(.vtex-flex-layout-0-x-flexRowContent--login-form){
-        padding-top: calc(100vh/4.5);
-        padding-bottom: calc(100vh/4.5);
+        height: 80vh;
         background-image: url(https://sallybeautyb2b.vteximg.com.br/arquivos/B2B-Landing.jpg) !important;
         /* background:linear-gradient(0deg, rgba(27, 0, 16, 0.6), rgba(39, 0, 23, 0.815)), url(https://sallybeauty.vteximg.com.br/arquivos/sally-profesionales-bg.jpg); */
         background-repeat: no-repeat;
         background-size: cover;
+    }
+    :global(.vtex-flex-layout-0-x-flexRowContent--login-form)
+    :global(.vtex-flex-layout-0-x-stretchChildrenWidth){
+        align-self: center;
     }
     :global(.vtex-rich-text-0-x-wrapper--title-text-login),
     :global(.vtex-rich-text-0-x-wrapper--content-login-left){
@@ -19,23 +22,13 @@
         margin-top: 0px;
         margin-bottom: 0px;
         font-family: 'PT Sans', sans-serif;
-        font-weight: 200;
-    }
-    .contentInitialScreen{
-        background-color: rgba(0, 0, 0, 0.623);
-        width: 60%;
-        border-radius: 10px;
-        padding-left: 100px;
+        font-weight: 400;
+        font-size: 1rem;
+        margin: 7px 0;
     }
     .formTitle{
         color: white;
         font-family: 'PT Sans', sans-serif;
-    }
-    .content--emailAndPassword{
-        background-color: rgba(0, 0, 0, 0.7);
-        width: 70%;
-        border-radius: 10px;
-        padding-bottom: 2rem;
     }
     .forgotPasswordLink{
         color: white;
@@ -43,18 +36,14 @@
     .dontHaveAccount{
         color: white;
     }
-
+    .contentInitialScreen,
+    .content--emailAndPassword,
+    .content--codeConfirmation,
     .content--emailVerification{
         background-color: rgba(0, 0, 0, 0.7);
         width: 70%;
         border-radius: 10px;
-        padding-bottom: 2rem;
-    }
-    .content--codeConfirmation{
-        background-color: rgba(0, 0, 0, 0.7);
-        width: 70%;
-        border-radius: 10px;
-        padding-bottom: 2rem;
+        justify-content: center;
     }
     .content--codeConfirmation
     :global(.vtex-styleguide-9-x-input){
