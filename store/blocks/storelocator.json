@@ -17,7 +17,7 @@
     },
     "rich-text#title": {
       "props": {
-        "text": "## Store Locator"
+        "text": "### ENCUENTRA TU TIENDA"
       }
     },
     "store.storedetail": {
@@ -26,7 +26,7 @@
     "store-group": {
       "children": ["flex-layout.row#containerStore"],
       "props": {
-        "title": "{storeName} Store"
+        "title": "{storeName}"
       }
     },
     "flex-layout.row#titleStore": {
@@ -44,37 +44,41 @@
     },
     "rich-text#titleStore": {
       "props": {
-        "text": "## Store Detail"
+        "text": "### ENCUENTRA TU TIENDA"
       }
     },
     "flex-layout.col#detail": {
       "children": [
-        "store-back-link",
-        "store-map",
+        "store-name",
         "store-address",
         "store-hours",
-        "store-instructions"
+        "store-back-link"
       ],
       "props": {
-        "width": "30%",
+        "width": "50%",
         "preventVerticalStretch": true
       }
     },
     "flex-layout.col#store": {
-      "children": ["store-name"],
+      "children": ["store-map"],
       "props": {
-        "width": "70%"
+        "width": "50%"
+      }
+    },
+    "store-name":{
+      "props":{
+        "blockClass": "store-name"
       }
     },
     "store-hours": {
       "props": {
-        "label": "Business hours:",
+        "label": "Horario de la tienda:",
         "format": "12h"
       }
     },
     "store-back-link": {
       "props": {
-        "label": "Back to all stores"
+        "label": "← Volver a todas las tiendas"
       }
     },
     "store-instructions": {
