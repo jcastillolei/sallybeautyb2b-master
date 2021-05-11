@@ -501,7 +501,7 @@
     },
     "rich-text#info-tienda-2": {
         "props": {
-            "text": "Av. Balmaceda 3242, Local 184 B\nCALAMA / ANTOFAGASTA\n552717308\nservicioalclientechile@sallybeauty.com\nLunes a Viernes: 10:00 hrs a 20:00 hrs\nCoordenadas: Lat: -22.4497352, Lng: -68.92372",
+            "text": "Av. Balmaceda 3242, Local 184 B\nCALAMA / ANTOFAGASTA\n552717308\nservicioalclientechile@sallybeauty.com\nLunes a Viernes: 10:00 hrs a 18:30 hrs\nCoordenadas: Lat: -22.4497352, Lng: -68.92372",
             "blockClass": "info-tiendas"
         }
     },
@@ -579,7 +579,7 @@
     },
     "rich-text#info-tienda-8": {
         "props": {
-            "text": "Av. Jorge Alessandri 3177, Local 116-B\nConcepción / BIO BIO\n412563725\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -36.7803841, Lng: -73.0585483",
+            "text": "Av. Jorge Alessandri 3177, Local 116-B\nConcepción / BIO BIO\n412563725\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 18:30\nCoordenadas: Lat: -36.7803841, Lng: -73.0585483",
             "blockClass": "info-tiendas"
         }
     },
@@ -592,7 +592,7 @@
     },
     "rich-text#info-tienda-9": {
         "props": {
-            "text": "Los Carrera Poniente 301, Local A 1041-1045\nCONCEPCIÓN / BÍO BIO\n413214377\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -36.8251755, Lng: -73.0591383",
+            "text": "Los Carrera Poniente 301, Local A 1041-1045\nCONCEPCIÓN / BÍO BIO\n413214377\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 18:30\nCoordenadas: Lat: -36.8251755, Lng: -73.0591383",
             "blockClass": "info-tiendas"
         }
     },

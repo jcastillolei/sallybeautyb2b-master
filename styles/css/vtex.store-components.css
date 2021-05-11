@@ -105,11 +105,11 @@
     display: block;
   }
 
-  .infoCardContainer--info-card-home .infoCardTextContainer {
+  .infoCardContainer---home .infoCardTextContainer {
     width: 30%;
   }
 
-  .infoCardContainer--info-card-home .infoCardImageContainer {
+  .infoCardContainer---home .infoCardImageContainer {
     width: 100%;
   }
 
