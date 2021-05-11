@@ -1,3 +1,6 @@
+.drawerContent{
+    background-color: #fafafa;
+}
 .minicartQuantityBadge{
     background: none;
     border: 1px solid #F75454;
@@ -18,6 +21,10 @@
 }
 .opened :global(.vtex-product-list-0-x-productBrandName){
     display: none;
+}
+
+.overlay--visible{
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 .opened :global(.vtex-product-list-0-x-price){
