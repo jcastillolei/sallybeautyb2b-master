@@ -42,7 +42,7 @@
       },
       "flex-layout.col#menu-hombre-4": {
         "children": [
-          "info-card#hombre"
+          "image#hombre"
         ]
       },
       "vtex.menu@2.x:menu#hombre": {

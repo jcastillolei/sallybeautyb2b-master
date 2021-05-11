@@ -48,7 +48,7 @@
       },
       "flex-layout.col#menu-piel-4": {
         "children": [
-          "info-card#piel"
+          "image#piel"
         ]
       },
       "vtex.menu@2.x:menu#piel": {

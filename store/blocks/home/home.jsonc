@@ -449,7 +449,11 @@
       "blockClass": "shelf"
     }
   },
-
+  "image#cabello":{
+    "props":{
+      "src": "https://sallybeauty.vteximg.com.br/arquivos/BN_Menu_Cabello.jpg"
+    }
+  },
   "info-card#cabello": {
     "props": {
       "id": "info-card-cabello",
@@ -459,69 +463,48 @@
       "textAlignment": "center"
     }
   },
-  "info-card#peinados": {
-    "props": {
-      "id": "info-card-peinados",
-      "isFullModeStyle": false,
-      "imageUrl": "https://sallybeauty.vteximg.com.br/arquivos/BN_Menu_Peinado.jpg",
-      "blockClass": "info-card-home",
-      "textAlignment": "center"
+  "image#peinados":{
+    "props":{
+      "src": "https://sallybeauty.vteximg.com.br/arquivos/BN_Menu_Peinado.jpg"
     }
   },
-  "info-card#coloracion": {
-    "props": {
-      "id": "info-card-coloracion",
-      "isFullModeStyle": false,
-      "imageUrl": "https://sallybeauty.vteximg.com.br/arquivos/BN_Menu_Coloracion.jpg",
-      "blockClass": "info-card-home",
-      "textAlignment": "center"
+
+  "image#coloracion":{
+    "props":{
+      "src": "https://sallybeauty.vteximg.com.br/arquivos/BN_Menu_Coloracion.jpg"
     }
   },
-  "info-card#electricos": {
-    "props": {
-      "id": "info-card-electricos",
-      "isFullModeStyle": false,
-      "imageUrl": "https://sallybeauty.vteximg.com.br/arquivos/BN_Menu_Electricos.jpg",
-      "blockClass": "info-card-home",
-      "textAlignment": "center"
+ 
+  "image#electricos":{
+    "props":{
+      "src": "https://sallybeauty.vteximg.com.br/arquivos/BN_Menu_Electricos.jpg"
     }
   },
-  "info-card#unas": {
-    "props": {
-      "id": "info-card-unas",
-      "isFullModeStyle": false,
-      "imageUrl": "https://sallybeauty.vteximg.com.br/arquivos/BN_Menu_Unas.jpg",
-      "blockClass": "info-card-home",
-      "textAlignment": "center"
+
+  "image#unas":{
+    "props":{
+      "src": "https://sallybeauty.vteximg.com.br/arquivos/BN_Menu_Unas.jpg"
     }
   },
-  "info-card#maquillaje": {
-    "props": {
-      "id": "info-card-maquillaje",
-      "isFullModeStyle": false,
-      "imageUrl": "https://sallybeauty.vteximg.com.br/arquivos/BN_Menu_Maquillaje.jpg",
-      "blockClass": "info-card-home",
-      "textAlignment": "center"
+
+  "image#maquillaje":{
+    "props":{
+      "src": "https://sallybeauty.vteximg.com.br/arquivos/BN_Menu_Maquillaje.jpg"
     }
   },
-  "info-card#piel": {
-    "props": {
-      "id": "info-card-piel",
-      "isFullModeStyle": false,
-      "imageUrl": "https://sallybeauty.vteximg.com.br/arquivos/BN_Menu_Piel.jpg",
-      "blockClass": "info-card-home",
-      "textAlignment": "center"
+
+  "image#piel":{
+    "props":{
+      "src": "https://sallybeauty.vteximg.com.br/arquivos/BN_Menu_Piel.jpg"
     }
   },
-  "info-card#hombre": {
-    "props": {
-      "id": "info-card-hombre",
-      "isFullModeStyle": false,
-      "imageUrl": "https://sallybeauty.vteximg.com.br/arquivos/BN_Menu_Hombre.jpg",
-      "blockClass": "info-card-home",
-      "textAlignment": "center"
+
+  "image#hombre":{
+    "props":{
+      "src": "https://sallybeauty.vteximg.com.br/arquivos/BN_Menu_Hombre.jpg"
     }
   },
+
   "rich-text#question": {
     "props": {
       "text": "**This is an example store built using the VTEX platform.\nWant to know more?**",

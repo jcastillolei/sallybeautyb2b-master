@@ -54,7 +54,7 @@
       },
       "flex-layout.col#menu-cabellos-4": {
         "children": [
-          "info-card#cabello"
+          "image#cabello"
         ]
       },
       "vtex.menu@2.x:menu#cabellos": {

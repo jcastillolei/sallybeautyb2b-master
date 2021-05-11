@@ -48,7 +48,7 @@
       },
       "flex-layout.col#menu-unas-4": {
         "children": [
-          "info-card#unas"
+          "image#unas"
         ]
       },
       "vtex.menu@2.x:menu#unas": {

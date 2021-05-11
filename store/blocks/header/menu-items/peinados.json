@@ -54,7 +54,7 @@
       },
       "flex-layout.col#menu-peinados-4": {
         "children": [
-          "info-card#peinados"
+          "image#peinados"
         ]
       },
       "vtex.menu@2.x:menu#peinados": {

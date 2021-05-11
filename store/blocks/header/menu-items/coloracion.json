@@ -48,7 +48,7 @@
       },
       "flex-layout.col#menu-coloracion-3": {
         "children": [
-          "info-card#coloracion"
+          "image#coloracion"
         ]
       },
       "vtex.menu@2.x:menu#coloracion": {

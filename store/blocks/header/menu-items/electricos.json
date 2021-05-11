@@ -48,7 +48,7 @@
       },
       "flex-layout.col#menu-electricos-4": {
         "children": [
-          "info-card#electricos"
+          "image#electricos"
         ]
       },
       "vtex.menu@2.x:menu#electricos": {

@@ -54,7 +54,7 @@
       },
       "flex-layout.col#menu-maquillaje-4": {
         "children": [
-          "info-card#maquillaje"
+          "image#maquillaje"
         ]
       },
       "vtex.menu@2.x:menu#maquillaje": {
