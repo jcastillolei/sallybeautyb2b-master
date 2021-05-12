@@ -605,7 +605,7 @@
     },
     "rich-text#info-tienda-10": {
         "props": {
-            "text": "Av. Alemania 671, Local 1069\nTEMUCO / LA ARAUCANÍA\n452994354\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -38.7337188, Lng: -72.612795",
+            "text": "Av. Alemania 671, Local 1069\nTEMUCO / LA ARAUCANÍA\n452994354\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 19:00\nCoordenadas: Lat: -38.7337188, Lng: -72.612795",
             "blockClass": "info-tiendas"
         }
     },
