@@ -100,7 +100,8 @@
       "markers": [
         "discount"
       ],
-      "blockClass": "summary"
+      "blockClass": "summary",
+      "message": "{savingsPercentage}"
     }
   }
 }

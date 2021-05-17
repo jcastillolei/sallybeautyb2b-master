@@ -32,6 +32,7 @@
 .galleryItem--normal{
   border: 1px solid #E6E6E6;
   margin-bottom: 20px;
+  position: relative;
 }
 .orderByButton{
   border: 1px solid black;
