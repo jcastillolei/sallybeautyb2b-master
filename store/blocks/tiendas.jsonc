@@ -149,7 +149,7 @@
     },
     "rich-text#info-stgo-1": {
         "props": {
-            "text": "Av. Américo Vespucio 1501. Local D-150A- D-154A\nCerrillos / METROPOLITANA\n225807890\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -33.5167198, Lng: -70.7195259",
+            "text": "Av. Américo Vespucio 1501. Local D-150A- D-154A\nCerrillos / METROPOLITANA\n225807890\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 18:30\nCoordenadas: Lat: -33.5167198, Lng: -70.7195259",
             "blockClass": "info-tiendas"
         }
     },
@@ -281,7 +281,7 @@
     },
     "rich-text#info-stgo-12": {
         "props": {
-            "text": "Av. Américo Vespucio 399. Local 644\nMaipú / METROPOLITANA\n225340363\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -33.4813493, Lng: -70.7540419",
+            "text": "Av. Américo Vespucio 399. Local 644\nMaipú / METROPOLITANA\n225340363\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 18:30\nCoordenadas: Lat: -33.4813493, Lng: -70.7540419",
             "blockClass": "info-tiendas"
         }
     },
@@ -293,7 +293,7 @@
     },
     "rich-text#info-stgo-13": {
         "props": {
-            "text": "Monumento 1913\nMaipú / METROPOLITANA\n225962408\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -33.5101154, Lng: -70.7606113",
+            "text": "Monumento 1913\nMaipú / METROPOLITANA\n225962408\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 18:30\nCoordenadas: Lat: -33.5101154, Lng: -70.7606113",
             "blockClass": "info-tiendas"
         }
     },
@@ -329,7 +329,7 @@
     },
     "rich-text#info-stgo-16": {
         "props": {
-            "text": "AV. ANDRES BELLO 2447\nProvidencia / METROPOLITANA\n226189646\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 19:00\nCoordenadas: Lat: -33.4178028, Lng:-70.609995",
+            "text": "AV. ANDRES BELLO 2447\nProvidencia / METROPOLITANA\n226189646\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 18:30\nCoordenadas: Lat: -33.4178028, Lng:-70.609995",
             "blockClass": "info-tiendas"
         }
     },
@@ -527,7 +527,7 @@
     },
     "rich-text#info-tienda-4": {
         "props": {
-            "text": "Av. Los Heroes de la Concepción 2555, Local 128-130\nIQUIQUE / TARAPACÁ\n572561717\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -20.2327233, Lng: -70.1449784",
+            "text": "Av. Los Heroes de la Concepción 2555, Local 128-130\nIQUIQUE / TARAPACÁ\n572561717\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 18:30\nCoordenadas: Lat: -20.2327233, Lng: -70.1449784",
             "blockClass": "info-tiendas"
         }
     },
@@ -566,7 +566,7 @@
     },
     "rich-text#info-tienda-7": {
         "props": {
-            "text": "Valdivia 440, Local 301\nLOS ÁNGELES / BÍO BIO\n432451332\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -37.4683329, Lng: -72.3549975",
+            "text": "Valdivia 440, Local 301\nLOS ÁNGELES / BÍO BIO\n432451332\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 18:30\nCoordenadas: Lat: -37.4683329, Lng: -72.3549975",
             "blockClass": "info-tiendas"
         }
     },
