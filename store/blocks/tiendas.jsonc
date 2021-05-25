@@ -233,7 +233,7 @@
     },
     "rich-text#info-stgo-8": {
         "props": {
-            "text": "Av. Kennedy 9001. Local 3280\nLas Condes / METROPOLITANA\n222131387\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -33.3908788, Lng: -70.54839",
+            "text": "Av. Kennedy 9001. Local 3280\nLas Condes / METROPOLITANA\n222131387\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 18:30\nCoordenadas: Lat: -33.3908788, Lng: -70.54839",
             "blockClass": "info-tiendas"
         }
     },
@@ -305,7 +305,7 @@
     },
     "rich-text#info-stgo-14": {
         "props": {
-            "text": "Av. Larrain 5862. Local 2052\nLa Reina / METROPOLITANA\n228306027\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -33.4524332, Lng: -70.5716591",
+            "text": "Av. Larrain 5862. Local 2052\nLa Reina / METROPOLITANA\n228306027\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 18:30\nCoordenadas: Lat: -33.4524332, Lng: -70.5716591",
             "blockClass": "info-tiendas"
         }
     },
