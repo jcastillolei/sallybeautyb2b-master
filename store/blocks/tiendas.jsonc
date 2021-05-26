@@ -197,7 +197,7 @@
     },
     "rich-text#info-stgo-5": {
         "props": {
-            "text": "Merced 814\nSantiago / METROPOLITANA\n225966370\nventas@intersalon.cl\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -33.4383608, Lng: -70.6508092",
+            "text": "Merced 814\nSantiago / METROPOLITANA\n225966370\nventas@intersalon.cl\nLunes a Viernes de 10:00 a 18:00\nCoordenadas: Lat: -33.4383608, Lng: -70.6508092",
             "blockClass": "info-tiendas"
         }
     },
@@ -425,7 +425,7 @@
     },
     "rich-text#info-stgo-24": {
         "props": {
-            "text": "Av. José Pedro Alessandri 1166. Local 2060\nÑuñoa / METROPOLITANA\n228982366\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -33.4653035, Lng: -70.5976179",
+            "text": "Av. José Pedro Alessandri 1166. Local 2060\nÑuñoa / METROPOLITANA\n228982366\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 18:00\nCoordenadas: Lat: -33.4653035, Lng: -70.5976179",
             "blockClass": "info-tiendas"
         }
     },
