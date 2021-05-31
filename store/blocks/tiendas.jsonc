@@ -488,7 +488,7 @@
     },
     "rich-text#info-tienda-1": {
         "props": {
-            "text": "Av. Balmaceda 2355, Local 152\nANTOFAGASTA / ANTOFAGASTA\n552533421\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 18:30\nCoordenadas: Lat: -23.645355, Lng: -70.402651",
+            "text": "Av. Balmaceda 2355, Local 152\nANTOFAGASTA / ANTOFAGASTA\n552533421\nservicioalclientechile@sallybeauty.com\nLunes a Domingo de 10:00 a 18:30\nCoordenadas: Lat: -23.645355, Lng: -70.402651",
             "blockClass": "info-tiendas"
         }
     },

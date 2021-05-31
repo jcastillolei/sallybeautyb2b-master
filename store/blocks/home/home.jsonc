@@ -47,6 +47,13 @@
       "height": 720,
       "images": [
         {
+          "image": "https://sallybeautyb2b.vteximg.com.br/arquivos/B-HWS-Electricos-Babyliss-40-OFF.jpg",
+          "mobileImage": "https://sallybeautyb2b.vteximg.com.br/arquivos/B-HMS-Electricos-Babyliss-40-OFF.png",
+          "link": {
+            "url": "/146?map=productClusterIds"
+          }
+        },
+        {
           "image": "https://sallybeautyb2b.vteximg.com.br/arquivos/B-HWS-Profesional-B2b.png",
           "mobileImage": "https://sallybeautyb2b.vteximg.com.br/arquivos/B-HMS-Profesional-B2b.png",
           "link": {
