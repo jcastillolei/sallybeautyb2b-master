@@ -81,8 +81,7 @@
       "blockClass": "shelf__selling-price-savings"
     },
     "children": [
-      "product-selling-price#summary",
-      "product-price-savings#summary"
+      "product-selling-price#summary"
     ]
   },
   "product-installments#summary": {
