@@ -73,6 +73,13 @@
           "link": {
             "url": "/teknia?_q=teknia&map=ft"
           }
+        }, 
+        {
+          "image": "/arquivos/tiendas.png",
+          "mobileImage": "/arquivos/tiendas_mobile.png",
+          "link": {
+            "url": "/tiendas"
+          }
         }  
       ]
     }

@@ -209,7 +209,7 @@
     },
     "rich-text#info-stgo-6": {
         "props": {
-            "text": "Av. Apoquindo 6067. Local 10\nLas Condes / METROPOLITANA\n222460971\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 18:30\nCoordenadas: Lat: -33.4093636, Lng: -70.5699625",
+            "text": "Av. Apoquindo 6067. Local 10\nLas Condes / METROPOLITANA\n222460971\nservicioalclientechile@sallybeauty.com\nCerrado por cuarentena\nCoordenadas: Lat: -33.4093636, Lng: -70.5699625",
             "blockClass": "info-tiendas"
         }
     },
@@ -329,7 +329,7 @@
     },
     "rich-text#info-stgo-16": {
         "props": {
-            "text": "AV. ANDRES BELLO 2447\nProvidencia / METROPOLITANA\n226189646\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 18:30\nCoordenadas: Lat: -33.4178028, Lng:-70.609995",
+            "text": "AV. ANDRES BELLO 2447\nProvidencia / METROPOLITANA\n226189646\nservicioalclientechile@sallybeauty.com\nCerrado por cuarentena\nCoordenadas: Lat: -33.4178028, Lng:-70.609995",
             "blockClass": "info-tiendas"
         }
     },
@@ -413,7 +413,7 @@
     },
     "rich-text#info-stgo-23": {
         "props": {
-            "text": "Irarrázaval 2718\nÑuñoa / METROPOLITANA\n222099658\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 18:30\nCoordenadas: Lat: -33.4542528, Lng: -70.6048669",
+            "text": "Irarrázaval 2718\nÑuñoa / METROPOLITANA\n222099658\nservicioalclientechile@sallybeauty.com\nCerrado por cuarentena\nCoordenadas: Lat: -33.4542528, Lng: -70.6048669",
             "blockClass": "info-tiendas"
         }
     },
