@@ -50,7 +50,7 @@
           "image": "https://sallybeautyb2b.vteximg.com.br/arquivos/B-HWS-B2b-Compra-Sobre-Labial-Regalo.jpg",
           "mobileImage": "https://sallybeautyb2b.vteximg.com.br/arquivos/B-HMS-B2b-Compra-Mayor-Labial-regalo.jpg",
           "link": {
-            "url": "/profesionales"
+            "url": "/"
           }
         },
         {
@@ -75,8 +75,8 @@
           }
         }, 
         {
-          "image": "/arquivos/tiendas.png",
-          "mobileImage": "/arquivos/tiendas_mobile.png",
+          "image": "/arquivos/B-HWS-Tiendas-Abiertas-24JUNIO.jpg",
+          "mobileImage": "/arquivos/B-HMS-Tiendas-Abiertas-24JUNIO.jpg",
           "link": {
             "url": "/tiendas"
           }

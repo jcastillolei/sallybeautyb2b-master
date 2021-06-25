@@ -71,7 +71,7 @@
             "fullWidth": true
         },
         "children": [
-            "flex-layout.col#logo-desktop"
+            "flex-layout.col#logo-desktop-2"
         ]
     },
     

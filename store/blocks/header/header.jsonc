@@ -67,14 +67,14 @@
       "fullWidth": true
     },
     "children": [
-      "flex-layout.col#logo-desktop",
+      "flex-layout.col#logo-desktop-2",
       "flex-layout.col#category-menu",
       "flex-layout.col#spacer",
       "search-bar",
       "minicart.v2"
     ]
   },
-  "flex-layout.col#logo-desktop": {
+  "flex-layout.col#logo-desktop-2": {
     "props": {
       "verticalAlign": "middle"
     },
@@ -90,7 +90,7 @@
     "props": {
       "title": "Logo",
       "href": "/",
-      "url": "https://sallybeautyb2b.vtexassets.com/assets/vtex.file-manager-graphql/images/95b2dbe8-0191-4b39-93d6-d2e8b69dbbbc___444529d31ab16f8799d895517bea904f.png",
+      "url": "/arquivos/Sally-Beauty-Logo-Rainbow.png",
       "width": "180"
     }
   },
@@ -473,7 +473,7 @@
     "props": {
       "title": "Logo",
       "href": "/",
-      "url": "https://sallybeautyb2b.vtexassets.com/assets/vtex.file-manager-graphql/images/95b2dbe8-0191-4b39-93d6-d2e8b69dbbbc___444529d31ab16f8799d895517bea904f.png",
+      "url": "/arquivos/Sally-Beauty-Logo-Rainbow.png",
       "width": "120"
     }
   }

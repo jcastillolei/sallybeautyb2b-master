@@ -173,7 +173,7 @@
     },
     "rich-text#info-stgo-3": {
         "props": {
-            "text": "Av. Vicuña Mackenna 6100. Local 3073\nLa Florida / METROPOLITANA\n225966376\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -33.5110731, Lng: -70.6120708",
+            "text": "Av. Vicuña Mackenna 6100. Local 3073\nLa Florida / METROPOLITANA\n225966376\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 09:00 a 19:00\nCoordenadas: Lat: -33.5110731, Lng: -70.6120708",
             "blockClass": "info-tiendas"
         }
     },
@@ -185,7 +185,7 @@
     },
     "rich-text#info-stgo-4": {
         "props": {
-            "text": "Av. Vicuña Mackenna Oriente 7100. Local 29\nSantiago / METROPOLITANA\n225807660\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -33.5200815, Lng: -70.6020567",
+            "text": "Av. Vicuña Mackenna Oriente 7100. Local 29\nSantiago / METROPOLITANA\n225807660\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 09:00 a 19:00\nCoordenadas: Lat: -33.5200815, Lng: -70.6020567",
             "blockClass": "info-tiendas"
         }
     },
@@ -365,7 +365,7 @@
     },
     "rich-text#info-stgo-19": {
         "props": {
-            "text": "Av. José Miguel Carrera 6150. Local 1128\nSan Miguel / METROPOLITANA\n227977200\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -33.511795, Lng: -70.6591036",
+            "text": "Av. José Miguel Carrera 6150. Local 1128\nSan Miguel / METROPOLITANA\n227977200\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 09:00 a 19:00\nCoordenadas: Lat: -33.511795, Lng: -70.6591036",
             "blockClass": "info-tiendas"
         }
     },
@@ -488,7 +488,7 @@
     },
     "rich-text#info-tienda-1": {
         "props": {
-            "text": "Av. Balmaceda 2355, Local 152\nANTOFAGASTA / ANTOFAGASTA\n552533421\nservicioalclientechile@sallybeauty.com\nLunes a Domingo de 10:00 a 18:30\nCoordenadas: Lat: -23.645355, Lng: -70.402651",
+            "text": "Av. Balmaceda 2355, Local 152\nANTOFAGASTA / ANTOFAGASTA\n552533421\nservicioalclientechile@sallybeauty.com\nLunes a Domingo de 10:00 a 20:00\nCoordenadas: Lat: -23.645355, Lng: -70.402651",
             "blockClass": "info-tiendas"
         }
     },

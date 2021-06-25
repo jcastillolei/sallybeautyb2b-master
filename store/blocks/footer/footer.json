@@ -33,7 +33,7 @@
   },
   "image#footer": {
     "props": {
-      "src": "https://sallybeautyb2b.vteximg.com.br/arquivos/Logo-Sally-New-2.png",
+      "src": "/arquivos/Sally-Beauty-Logo-Rainbow.png",
       "maxHeight": 20
     }
   },
