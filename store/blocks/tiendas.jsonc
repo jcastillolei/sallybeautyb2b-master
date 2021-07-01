@@ -149,7 +149,7 @@
     },
     "rich-text#info-stgo-1": {
         "props": {
-            "text": "Av. Américo Vespucio 1501. Local D-150A- D-154A\nCerrillos / METROPOLITANA\n225807890\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 18:30\nCoordenadas: Lat: -33.5167198, Lng: -70.7195259",
+            "text": "Av. Américo Vespucio 1501. Local D-150A- D-154A\nCerrillos / METROPOLITANA\n225807890\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 19:00\nCoordenadas: Lat: -33.5167198, Lng: -70.7195259",
             "blockClass": "info-tiendas"
         }
     },
@@ -197,7 +197,7 @@
     },
     "rich-text#info-stgo-5": {
         "props": {
-            "text": "Merced 814\nSantiago / METROPOLITANA\n225966370\nventas@intersalon.cl\nLunes a Viernes de 10:00 a 18:00\nCoordenadas: Lat: -33.4383608, Lng: -70.6508092",
+            "text": "Merced 814\nSantiago / METROPOLITANA\n225966370\nventas@intersalon.cl\nLunes a Viernes de 10:00 a 19:00\nCoordenadas: Lat: -33.4383608, Lng: -70.6508092",
             "blockClass": "info-tiendas"
         }
     },
@@ -209,7 +209,7 @@
     },
     "rich-text#info-stgo-6": {
         "props": {
-            "text": "Av. Apoquindo 6067. Local 10\nLas Condes / METROPOLITANA\n222460971\nservicioalclientechile@sallybeauty.com\nCerrado por cuarentena\nCoordenadas: Lat: -33.4093636, Lng: -70.5699625",
+            "text": "Av. Apoquindo 6067. Local 10\nLas Condes / METROPOLITANA\n222460971\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 19:00\nCoordenadas: Lat: -33.4093636, Lng: -70.5699625",
             "blockClass": "info-tiendas"
         }
     },
@@ -221,7 +221,7 @@
     },
     "rich-text#info-stgo-7": {
         "props": {
-            "text": "Av. Padre Hurtado Sur # 875 Local 2048\nLas Condes / METROPOLITANA\n232399775\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -33.4155302, Lng: -70.5424405",
+            "text": "Av. Padre Hurtado Sur # 875 Local 2048\nLas Condes / METROPOLITANA\n232399775\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 19:00\nCoordenadas: Lat: -33.4155302, Lng: -70.5424405",
             "blockClass": "info-tiendas"
         }
     },
@@ -233,7 +233,7 @@
     },
     "rich-text#info-stgo-8": {
         "props": {
-            "text": "Av. Kennedy 9001. Local 3280\nLas Condes / METROPOLITANA\n222131387\nservicioalclientechile@sallybeauty.com\nCerrado por cuarentena\nCoordenadas: Lat: -33.3908788, Lng: -70.54839",
+            "text": "Av. Kennedy 9001. Local 3280\nLas Condes / METROPOLITANA\n222131387\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 19:00\nCoordenadas: Lat: -33.3908788, Lng: -70.54839",
             "blockClass": "info-tiendas"
         }
     },
@@ -245,7 +245,7 @@
     },
     "rich-text#info-stgo-9": {
         "props": {
-            "text": "Av. Kennedy 5413. Local 505 A\nLas Condes / METROPOLITANA\n232207425\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -33.4021889, Lng: -70.5804381",
+            "text": "Av. Kennedy 5413. Local 505 A\nLas Condes / METROPOLITANA\n232207425\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 19:00\nCoordenadas: Lat: -33.4021889, Lng: -70.5804381",
             "blockClass": "info-tiendas"
         }
     },
@@ -257,7 +257,7 @@
     },
     "rich-text#info-stgo-10": {
         "props": {
-            "text": "Av. El Rodeo 12850 Piso 1. Local 48\nLo Barnechea / METROPOLITANA\n229555583\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -33.3523124, Lng: -70.5229653",
+            "text": "Av. El Rodeo 12850 Piso 1. Local 48\nLo Barnechea / METROPOLITANA\n229555583\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 19:00\nCoordenadas: Lat: -33.3523124, Lng: -70.5229653",
             "blockClass": "info-tiendas"
         }
     },
@@ -269,7 +269,7 @@
     },
     "rich-text#info-stgo-11": {
         "props": {
-            "text": "Av. La Dehesa 1445. Local 2017\nLo Barnechea / METROPOLITANA\n222162886\nservicioalclientechile@sallybeauty.com\nCerrado por cuarentena\nCoordenadas: Lat: -33.3575751, Lng: -70.5174551",
+            "text": "Av. La Dehesa 1445. Local 2017\nLo Barnechea / METROPOLITANA\n222162886\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 19:00\nCoordenadas: Lat: -33.3575751, Lng: -70.5174551",
             "blockClass": "info-tiendas"
         }
     },
@@ -305,7 +305,7 @@
     },
     "rich-text#info-stgo-14": {
         "props": {
-            "text": "Av. Larrain 5862. Local 2052\nLa Reina / METROPOLITANA\n228306027\nservicioalclientechile@sallybeauty.com\nCerrado por cuarentena\nCoordenadas: Lat: -33.4524332, Lng: -70.5716591",
+            "text": "Av. Larrain 5862. Local 2052\nLa Reina / METROPOLITANA\n228306027\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 19:00\nCoordenadas: Lat: -33.4524332, Lng: -70.5716591",
             "blockClass": "info-tiendas"
         }
     },
@@ -317,7 +317,7 @@
     },
     "rich-text#info-stgo-15": {
         "props": {
-            "text": "Av. Américo Vespucio 3300. Local 1035\nPeñalolen / METROPOLITANA\n229470083\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -33.4878024, Lng: -70.5798096",
+            "text": "Av. Américo Vespucio 3300. Local 1035\nPeñalolen / METROPOLITANA\n229470083\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 19:00\nCoordenadas: Lat: -33.4878024, Lng: -70.5798096",
             "blockClass": "info-tiendas"
         }
     },
@@ -329,7 +329,7 @@
     },
     "rich-text#info-stgo-16": {
         "props": {
-            "text": "AV. ANDRES BELLO 2447\nProvidencia / METROPOLITANA\n226189646\nservicioalclientechile@sallybeauty.com\nCerrado por cuarentena\nCoordenadas: Lat: -33.4178028, Lng:-70.609995",
+            "text": "AV. ANDRES BELLO 2447\nProvidencia / METROPOLITANA\n226189646\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 19:00\nCoordenadas: Lat: -33.4178028, Lng:-70.609995",
             "blockClass": "info-tiendas"
         }
     },
@@ -341,7 +341,7 @@
     },
     "rich-text#info-stgo-17": {
         "props": {
-            "text": "Av. Camilo Henríquez 3692. Local 138 A - 124 A\nPuente Alto / METROPOLITANA\n225860612\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -33.5694581, Lng: -70.5589516",
+            "text": "Av. Camilo Henríquez 3692. Local 138 A - 124 A\nPuente Alto / METROPOLITANA\n225860612\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 19:00\nCoordenadas: Lat: -33.5694581, Lng: -70.5589516",
             "blockClass": "info-tiendas"
         }
     },
@@ -353,7 +353,7 @@
     },
     "rich-text#info-stgo-18": {
         "props": {
-            "text": "Av. Jorge Alessandri 20030. Local B, 1048\nSan Bernardo / METROPOLITANA\n\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -33.6316593, Lng: -70.71255",
+            "text": "Av. Jorge Alessandri 20030. Local B, 1048\nSan Bernardo / METROPOLITANA\n\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 19:00\nCoordenadas: Lat: -33.6316593, Lng: -70.71255",
             "blockClass": "info-tiendas"
         }
     },
@@ -389,7 +389,7 @@
     },
     "rich-text#info-stgo-21": {
         "props": {
-            "text": "Huérfanos 819\nSantiago / METROPOLITANA\n225966378\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -33.4393561, Lng: -70.6506814",
+            "text": "Huérfanos 819\nSantiago / METROPOLITANA\n225966378\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 19:00\nCoordenadas: Lat: -33.4393561, Lng: -70.6506814",
             "blockClass": "info-tiendas"
         }
     },
@@ -401,7 +401,7 @@
     },
     "rich-text#info-stgo-22": {
         "props": {
-            "text": "SAN ANTONIO 430\nSantiago / METROPOLITANA\n225966372\nservicioalclientechile@sallybeauty.com\nCerrado temporalmente por cuarentena\nCoordenadas: Lat: -33.437789, Lng: -70.6507186",
+            "text": "SAN ANTONIO 430\nSantiago / METROPOLITANA\n225966372\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 19:00\nCoordenadas: Lat: -33.437789, Lng: -70.6507186",
             "blockClass": "info-tiendas"
         }
     },
@@ -413,7 +413,7 @@
     },
     "rich-text#info-stgo-23": {
         "props": {
-            "text": "Irarrázaval 2718\nÑuñoa / METROPOLITANA\n222099658\nservicioalclientechile@sallybeauty.com\nCerrado por cuarentena\nCoordenadas: Lat: -33.4542528, Lng: -70.6048669",
+            "text": "Irarrázaval 2718\nÑuñoa / METROPOLITANA\n222099658\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 19:00\nCoordenadas: Lat: -33.4542528, Lng: -70.6048669",
             "blockClass": "info-tiendas"
         }
     },
@@ -425,7 +425,7 @@
     },
     "rich-text#info-stgo-24": {
         "props": {
-            "text": "Av. José Pedro Alessandri 1166. Local 2060\nÑuñoa / METROPOLITANA\n228982366\nservicioalclientechile@sallybeauty.com\nCerrado por cuarentena\nCoordenadas: Lat: -33.4653035, Lng: -70.5976179",
+            "text": "Av. José Pedro Alessandri 1166. Local 2060\nÑuñoa / METROPOLITANA\n228982366\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 19:00\nCoordenadas: Lat: -33.4653035, Lng: -70.5976179",
             "blockClass": "info-tiendas"
         }
     },
@@ -579,7 +579,7 @@
     },
     "rich-text#info-tienda-8": {
         "props": {
-            "text": "Av. Jorge Alessandri 3177, Local 116-B\nConcepción / BIO BIO\n412563725\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 18:30\nCoordenadas: Lat: -36.7803841, Lng: -73.0585483",
+            "text": "Av. Jorge Alessandri 3177, Local 116-B\nConcepción / BIO BIO\n412563725\nservicioalclientechile@sallybeauty.com\nLunes a Viernes de 10:00 a 19:00\nCoordenadas: Lat: -36.7803841, Lng: -73.0585483",
             "blockClass": "info-tiendas"
         }
     },

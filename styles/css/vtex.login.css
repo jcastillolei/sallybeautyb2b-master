@@ -44,6 +44,10 @@
         width: 70%;
         border-radius: 10px;
         justify-content: center;
+        display: flex;
+        flex-wrap: wrap;
+        align-content: center;
+        align-items: center;
     }
     .content--codeConfirmation
     :global(.vtex-styleguide-9-x-input){
